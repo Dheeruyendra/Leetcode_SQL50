@@ -21,8 +21,8 @@ This repository contains solutions to all SQL problems in the leetcode SQL50 stu
    - [ ] View
    - [ ] User Account Management
   ### Day 8 :
-   - [ ] Leetcode SQL50
+   - [ ] [SQL50(Select, Basic Joins)](https://leetcode.com/studyplan/top-sql-50/)
   ### Day 9 :
-   - [ ] Leetcode SQL50
+   - [ ] [SQL50(Basic Aggregate Functions, Sorting and Grouping)](https://leetcode.com/studyplan/top-sql-50/)
   ### Day 10 :
-   - [ ] Leetcode SQL50
+   - [ ] [SQL50(Advanced Select and Joins, Subqueries, Advanced String Functions / Regex / Clause)](https://leetcode.com/studyplan/top-sql-50/)
