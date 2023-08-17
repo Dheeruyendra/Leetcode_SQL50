@@ -2,7 +2,7 @@
 This repository contains solutions to all SQL problems in the leetcode SQL50 study plan
 
   ### Day 1 :
-   - [ ] [Retrieve Data from tables](https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php)
+   - [X] [Retrieve Data from tables](https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php)
    - [ ] [Boolean and Relational Operations](https://www.w3resource.com/sql-exercises/sql-boolean-operators.php)
   ### Day 2 :     
    - [ ] Wildcard and Special Operators
