@@ -3,7 +3,7 @@ This repository contains solutions to all SQL problems in the leetcode SQL50 stu
 
   ### Day 1 :
    - [X] [Retrieve Data from tables](https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php)
-   - [ ] [Boolean and Relational Operations](https://www.w3resource.com/sql-exercises/sql-boolean-operators.php)
+   - [X] [Boolean and Relational Operations](https://www.w3resource.com/sql-exercises/sql-boolean-operators.php)
   ### Day 2 :     
    - [ ] Wildcard and Special Operators
    - [ ] Aggregate Functions
