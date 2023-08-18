@@ -1,5 +1,5 @@
 # Leetcode_SQL50
-This repository contains solutions to all SQL problems in the leetcode SQL50 study plan
+This repository contains all the resources to learn SQL
 
   ### Day 1 :
    - [X] [Retrieve Data from tables](https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php)
