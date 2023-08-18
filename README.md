@@ -5,8 +5,8 @@ This repository contains solutions to all SQL problems in the leetcode SQL50 stu
    - [X] [Retrieve Data from tables](https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php)
    - [X] [Boolean and Relational Operations](https://www.w3resource.com/sql-exercises/sql-boolean-operators.php)
   ### Day 2 :     
-   - [ ] Wildcard and Special Operators
-   - [ ] Aggregate Functions
+   - [ ] [Wildcard and Special Operators](https://www.w3resource.com/sql-exercises/sql-wildcard-special-operators.php)
+   - [ ] [Aggregate Functions](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)
   ### Day 3 :     
    - [ ] Formatting Query Output
    - [ ] Quering on Multiple Tables
